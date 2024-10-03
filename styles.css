@@ -5,11 +5,11 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f7f7f7;
+    background-color: white;
 }
 
 .container {
-    background-color: teal;
+    background-color:white;
     padding: 40px;
     box-shadow: 0 0 10px rgba(0,0,0,0.7);
 }
