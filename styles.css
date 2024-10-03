@@ -5,23 +5,23 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #f7f7f7;
 }
 
 .container {
-    background-color: white;
+    background-color: teal;
     padding: 40px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0,0,0,0.7);
 }
 
 h1 {
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid #777;
     padding-bottom: 10px;
 }
 
 .subtitle {
     font-style: italic;
-    color: #666;
+    color: #777;
 }
 
 .section {
@@ -34,7 +34,7 @@ h1 {
 }
 
 a {
-    color: #0366d6;
+    color: light green;
     text-decoration: none;
 }
 
